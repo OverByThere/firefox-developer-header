@@ -1,0 +1,16 @@
+{
+	"name": "developer-header",
+	"title": "developer-header",
+	"description": "This simple addon will show you the IP address of the site you are currently browsing, with a link to whois.sc for each IP.",
+	"author": "Dan Clarke",
+	"license": "MPL 2.0",
+	"version": "0.2.1",
+	"dependencies": {
+		"menuitem": "git+https://github.com/OverByThere/menuitem.git",
+		"pathfinder": "git+https://github.com/OverByThere/addon-pathfinder.git"
+	},
+	"repository": {
+	  "type": "git",
+	  "url": "https://github.com/OverByThere/firefox-developer-header"
+	}
+}
